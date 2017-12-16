@@ -1,3 +1,9 @@
+#customcss{
+  font-family: 'Alegreya', serif;
+}
+
+
+
 .thumbnail img{
   max-height: 200px;
 }
@@ -6,4 +12,9 @@
 }
 .payment{
   width:100%;
+}
+
+.shoph1{
+  text-align: center;
+  margin-bottom: 20px;
 }
